@@ -6,5 +6,5 @@ Basic script that will spin up a headless browser => login to your github => and
 ---
 
 ## Circle back for:
-1.Interacting with Github API
-2.The script to access your locally stored GitHub credentials
+* Interacting with Github API
+* The script to access your locally stored GitHub credentials
